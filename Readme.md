@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+<!-- default file list end -->
 # ASPxGridView - Batch Edit - How to use the upload control in Batch Edit mode
 
 
