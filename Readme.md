@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - Batch Edit - How to use the upload control in Batch Edit mode
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t191652/)**
+<!-- run online end -->
 
 
 This example is based on <a href="https://www.devexpress.com/Support/Center/p/T115096">T115096: ASPxGridView - Batch Editing - A simple implementation of an EditItem template</a> and illustrates how to use the upload control in Batch edit mode. Note that all files are <strong>stored in memory</strong> until you call the update method.<br /><br />1) Place ASPxUploadControl into the column's EditItem template:<br />
